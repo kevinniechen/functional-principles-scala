@@ -1,8 +1,11 @@
 # Functional Programming Principles in Scala
 
+![Scala Banner](https://thepracticaldev.s3.amazonaws.com/i/xmy41vphn5xl7y65meca.jpg)
+
 This is my code and coursework for the 6-week Functional Programming Principles in Scala course, taught by Martin Odersky-- the creator of Scala and a professor at EPFL.
 
 **Links**
+
 [Course Link](https://www.coursera.org/learn/progfun1)
 
 [Course Reviews](https://www.class-central.com/mooc/422/coursera-functional-programming-principles-in-scala)
