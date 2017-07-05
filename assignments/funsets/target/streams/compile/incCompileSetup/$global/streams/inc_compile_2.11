@@ -1,0 +1,242 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/common/package$.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/common/package.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$2.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$diff$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$exists$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$filter$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$intersect$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$singletonSet$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$union$1.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/Main$.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/Main$delayedInit$body.class
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/Main.class
+binary dependencies:
+6 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> common.package
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> common.package$
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$2
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$diff$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$exists$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$filter$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$intersect$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$map$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$singletonSet$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$union$1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets.Main
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets.Main$
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets.Main$delayedInit$body
+used names:
+99 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> ::
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> <init>
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> <repeated>
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> Any
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> AnyRef
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> File
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> FileInputStream
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> InputStream
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> List
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> None
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> Nothing
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> Option
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> Predef
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> String
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> _root_
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> child
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> children
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> classesDir
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> common
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> exists
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> file
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> foldLeft
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> getClass
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> getParentFile
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> getResource
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> io
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> java
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> package
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> projectDir
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> resourceFile
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> resourcePath
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> scala
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> subFile
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> toURI
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> &&
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> +
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> <init>
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> ==
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> >
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> AnyRef
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Boolean
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> FunSets
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Function1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> IndexedSeq
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Int
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Predef
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Set
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> String
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Unit
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> _root_
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> a
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> apply
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> bound
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> canBuildFrom
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> contains
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> elem
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> exists
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> f
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> forall
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> i
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> immutable
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> intWrapper
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> iter
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> map
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> mkString
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> other
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> p
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> println
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> s
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> scala
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> t
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> to
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> toString
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> unary_!
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> unary_-
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> withFilter
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> x
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> xs
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> ||
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> <init>
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> App
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> FunSets
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> Main
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> Predef
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> assert
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> contains
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> diff
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> intersect
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> println
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> scala
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> singletonSet
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> unary_!
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> union
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> unionSet1
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> unionSet2
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> unionSet3
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> unionSet4
+product stamps:
+18 items
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/common/package$.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/common/package.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$2.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$diff$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$exists$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$filter$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$intersect$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$singletonSet$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$union$1.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/Main$.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/Main$delayedInit$body.class -> lastModified(1498246728000)
+/Users/kevinchen/Downloads/funsets/target/scala-2.11/classes/funsets/Main.class -> lastModified(1498246728000)
+source stamps:
+3 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> hash(d7962db34ead53e98714fcc3ec4d98636becea51)
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> hash(a109bdd557deb86249588eaf89ff0e04e2b274d2)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.App
+internal apis:
+3 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVzWdrB6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9Vc2Vycy9rZXZpbmNoZW4vRG93bmxvYWRzL2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCdZ35IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAoboat0AAZub3RpZnlzcQB+AAy+MdkedAADU2V0c3EAfgAMuvttmHQABHdhaXRzcQB+AAxb/sE/dAANJGFzSW5zdGFuY2VPZnNxAH4ADIPUD8F0AAV1bmlvbnNxAH4ADEFrfCN0AAlpbnRlcnNlY3RzcQB+AAysPDNIdAAMc2luZ2xldG9uU2V0c3EAfgAMxhBWf3QAA21hcHNxAH4ADCVoCAF0AAZlcXVhbHNzcQB+AAwE9cwddAAMYXNJbnN0YW5jZU9mc3EAfgAMUcLEY3QADHN5bmNocm9uaXplZHNxAH4ADL+dItd0AA0kaXNJbnN0YW5jZU9mc3EAfgAMDzlounQABmZvcmFsbHNxAH4ADIa+Wg90AAhwcmludFNldHNxAH4ADMEvpW50AAlub3RpZnlBbGxzcQB+AAxk1Sm5dAAMaXNJbnN0YW5jZU9mc3EAfgAMkKSPwXQABmZpbHRlcnNxAH4ADDDAkAZ0AAVib3VuZHNxAH4ADIsUQl10AAdGdW5TZXRzc3EAfgAMXyGTVHQABGRpZmZzcQB+AAyHq54ydAACPT1zcQB+AAwXFJA4dAAFY2xvbmVzcQB+AAyTgkHodAAGZXhpc3Rzc3EAfgAMz/sXaHQACHRvU3RyaW5nc3EAfgAMqDbAsXQAAiE9c3EAfgAMDI7Jr3QACGdldENsYXNzc3EAfgAMrK9BlXQACGNvbnRhaW5zc3EAfgAMw+OPanQAAm5lc3EAfgAM1u/lQXQAAmVxc3EAfgAMCvGaf3QAAiMjc3EAfgAMhjq4P3QACGZpbmFsaXplc3EAfgAMZdYbe3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2Z1bnNldHMuRnVuU2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB2c3EAfgBvAXVxAH4AUgAAAABwc3EAfgBvAXVxAH4AUgAAAABwc3EAfgBvAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AjnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3NxAH4AgnQAA0FueXNxAH4AhnNxAH4AiXVxAH4AjAAAAAJzcQB+AI50AAVzY2FsYXEAfgCVcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmdW5zZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFc1nawenVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMva2V2aW5jaGVuL0Rvd25sb2Fkcy9mdW5zZXRzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTXli2zTq1T6YcU/MPsTZhja+zqUQ==
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBtnOTlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJDxtSx0AAZub3RpZnlzcQB+AAzzqXuEdAAJdW5pb25TZXQzc3EAfgAMjBVX5HQABHdhaXRzcQB+AAzfo7/PdAANJGFzSW5zdGFuY2VPZnNxAH4ADPYpomd0AAZlcXVhbHNzcQB+AAwATeTOdAAMYXNJbnN0YW5jZU9mc3EAfgAM/E+8uHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMJFAO9HQADHN5bmNocm9uaXplZHNxAH4ADJiYB3Z0AA0kaXNJbnN0YW5jZU9mc3EAfgAMswtJWHQACXVuaW9uU2V0MnNxAH4ADOjp8Xh0AARtYWluc3EAfgAM5NVnBXQACW5vdGlmeUFsbHNxAH4ADFrXsNp0AAxpc0luc3RhbmNlT2ZzcQB+AAwNYnJbdAAJdW5pb25TZXQxc3EAfgAMKCmJ/3QAAj09c3EAfgAMDq1OrnQABWNsb25lc3EAfgAM9g5US3QABE1haW5zcQB+AAy/5JCCdAAIdG9TdHJpbmdzcQB+AAziPp4hdAAEYXJnc3NxAH4ADPGl70Z0AAl1bmlvblNldDRzcQB+AAz1qsVkdAACIT1zcQB+AAyVTJw4dAAIZ2V0Q2xhc3NzcQB+AAzc+gaHdAACbmVzcQB+AAztbc3JdAACZXFzcQB+AAzTNZ88dAALZGVsYXllZEluaXRzcQB+AAxNXKYodAACIyNzcQB+AAzoqRNXdAAIZmluYWxpemVzcQB+AAzBVPCJdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAMZnVuc2V0cy5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBpAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AHBzcQB+AGkBdXEAfgBKAAAAAHBzcQB+AGkBdXEAfgBKAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBQcQB+AFl1cQB+AFoAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB6eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ab3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlHNxAH4AXABxAH4AI3VxAH4AXwAAAABzcQB+AId0AARVbml0cQB+AI11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB6eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBidAAFUGxhaW5xAH4AM3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AiFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ab3NxAH4Ah3QABUFycmF5cQB+AI11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ah3QABlN0cmluZ3NxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJN0AARqYXZhc3EAfgCTdAAEbGFuZ3EAfgCYcHNxAH4AaQF1cQB+AK8AAAAEc3EAfgCHdAADQXBwcQB+AI1zcQB+AId0AAtEZWxheWVkSW5pdHEAfgCNc3EAfgCHdAAGT2JqZWN0cQB+ALNzcQB+AId0AANBbnlxAH4AjXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZnVuc2V0c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNZ2sHp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL2tldmluY2hlbi9Eb3dubG9hZHMvZnVuc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUoQm91VfeuGJJWI6vif8OBOKydNI=
+external apis:
+0 items
+source infos:
+3 items
+/Users/kevinchen/Downloads/funsets/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> 
+AAAAAAAAAAA=
+/Users/kevinchen/Downloads/funsets/src/main/scala/funsets/Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNZxsJF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9rZXZpbmNoZW4vRG93bmxvYWRzL2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNZ2sHp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9rZXZpbmNoZW4vRG93bmxvYWRzL2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

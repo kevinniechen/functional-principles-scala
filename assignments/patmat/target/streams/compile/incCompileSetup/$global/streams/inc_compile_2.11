@@ -1,0 +1,292 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/common/package$.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/common/package.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times_helper$1$1.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> common.package
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$2
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mergeCodeTables$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times_helper$1$1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+146 items
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> ::
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> <init>
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> Any
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> File
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> List
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> None
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> Option
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> Predef
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> String
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> _root_
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> child
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> children
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> common
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> exists
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> file
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> getClass
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> getResource
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> io
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> java
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> package
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> scala
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> subFile
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> toURI
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> !=
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> :+
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Code
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Error
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Ordering
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> acc
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> annotation
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> bitList
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> charList
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> code
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> count
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> cs
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> filter
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> length
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> lookup
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> map
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> math
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> prepend
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> rec
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> root
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> s
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> sortBy
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> t
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> tailrec
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> times_helper
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> w
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+22 items
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times_helper$1$1.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1498846084000)
+/Users/kevinchen/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1498846084000)
+source stamps:
+2 items
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> hash(d4555993069c3cb1458f35abb50a95b71ce4cc00)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction2
+internal apis:
+2 items
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFc+jAZBHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADsvVXNlcnMva2V2aW5jaGVuL0Rvd25sb2Fkcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDd3FLAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADEIPRD50AARDb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADOWMSpB0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMZ7XgnHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADN7a5xN0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAM9BfrKXQACW5vdGlmeUFsbHNxAH4ADIvcAQl0AAtyZWFkUmVzb2x2ZXNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAM82j6MnQAB2NvbWJpbmVzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMoi1lqnQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPatRDx0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAMF3Jtq3QACENvZGVUcmVlc3EAfgAMx3RtkXQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMIaZaiHQAAiMjc3EAfgAMMzCdF3QACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0cBPvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Al3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AsHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ArwBwc3EAfgC0c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJdMAAlpbmhlcml0ZWRxAH4Al0wAB3BhcmVudHNxAH4Al3hxAH4AuHNxAH4ArwBwc3EAfgC0dXEAfgCSAAAAAHNxAH4ArwBwc3EAfgC0dXEAfgCSAAAAAHNxAH4ArwBwc3EAfgC0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC3dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDVc3EAfgDIdAADQW55c3EAfgDMc3EAfgDPdXEAfgDSAAAAAnNxAH4A1HQABXNjYWxhcQB+ANt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVz6MBkEdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOy9Vc2Vycy9rZXZpbmNoZW4vRG93bmxvYWRzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1FVZkwacPLFFjzWrtQqVtxzkzAA=
+external apis:
+0 items
+source infos:
+2 items
+/Users/kevinchen/Downloads/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/kevinchen/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXPowGQR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy9rZXZpbmNoZW4vRG93bmxvYWRzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
