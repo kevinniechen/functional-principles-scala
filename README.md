@@ -1,17 +1,11 @@
 # Functional Programming Principles in Scala
 
-![Scala Banner](https://thepracticaldev.s3.amazonaws.com/i/xmy41vphn5xl7y65meca.jpg)
-
 This is my code and coursework for the 6-week Functional Programming Principles in Scala course, taught by Martin Odersky-- the creator of Scala and a professor at EPFL.
 
-**Links**
+![Scala Banner](https://thepracticaldev.s3.amazonaws.com/i/xmy41vphn5xl7y65meca.jpg)
 
-[Course Link](https://www.coursera.org/learn/progfun1)
-
-[Course Reviews](https://www.class-central.com/mooc/422/coursera-functional-programming-principles-in-scala)
-
-### Course Description:
-"Functional programming is becoming increasingly widespread in industry. This trend is driven by the adoption of Scala as the main programming language for many applications. Scala fuses functional and object-oriented programming in a practical package. It interoperates seamlessly with both Java and Javascript. Scala is the implementation language of many important frameworks, including Apache Spark, Kafka, and Akka. It provides the core infrastructure for sites such as Twitter, Tumblr and also Coursera.
+### Course Description
+Functional programming is becoming increasingly widespread in industry. This trend is driven by the adoption of Scala as the main programming language for many applications. Scala fuses functional and object-oriented programming in a practical package. It interoperates seamlessly with both Java and Javascript. Scala is the implementation language of many important frameworks, including Apache Spark, Kafka, and Akka. It provides the core infrastructure for sites such as Twitter, Tumblr and also Coursera.
 
 In this course you will discover the elements of the functional programming style and learn how to apply them usefully in your daily programming tasks. You will also develop a solid foundation for reasoning about functional programs, by touching upon proofs of invariants and the tracing of execution symbolically.
 
@@ -27,5 +21,8 @@ Learning Outcomes. By the end of this course you will be able to:
  - reason about properties of functions,
  - understand generic types for functional programs
 
-Recommended background: You should have at least one year programming experience. Proficiency with Java or C# is ideal, but experience with other languages such as C/C++, Python, Javascript or Ruby is also sufficient. You should have some familiarity using the command line."
+Recommended background: You should have at least one year programming experience. Proficiency with Java or C# is ideal, but experience with other languages such as C/C++, Python, Javascript or Ruby is also sufficient. You should have some familiarity using the command line.
 
+### Links
+ - [Course Link](https://www.coursera.org/learn/progfun1)
+ - [Course Reviews](https://www.class-central.com/mooc/422/coursera-functional-programming-principles-in-scala)
