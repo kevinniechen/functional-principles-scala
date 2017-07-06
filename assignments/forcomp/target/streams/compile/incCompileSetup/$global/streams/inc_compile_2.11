@@ -1,0 +1,311 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/common/package$.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/common/package.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$1$$anonfun$apply$2.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$3.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4$$anonfun$apply$5.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4$$anonfun$apply$6.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1$$anonfun$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$2.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package$.class
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> /Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package.class
+binary dependencies:
+6 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> /Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> /Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> /Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> common.package
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> common.package$
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1$$anonfun$apply$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1$$anonfun$apply$1$$anonfun$apply$2
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$dictionaryByOccurrences$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$3
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4$$anonfun$apply$5
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4$$anonfun$apply$6
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceOccurrences$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$1$$anonfun$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$2
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$2
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$2
+used names:
+149 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> ::
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> <init>
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> <repeated>
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> Any
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> AnyRef
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> File
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> FileInputStream
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> InputStream
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> List
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> None
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> Nothing
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> Option
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> Predef
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> String
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> _root_
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> child
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> children
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> classesDir
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> common
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> exists
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> file
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> foldLeft
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> getClass
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> getParentFile
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> getResource
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> io
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> java
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> package
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> projectDir
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> resourceFile
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> resourcePath
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> scala
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> subFile
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> toURI
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> !=
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> $conforms
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> ++
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> -
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> ::
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> <init>
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> ==
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Anagrams
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> AnyRef
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Char
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> IndexedSeq
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Int
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> List
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Map
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Nil
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> None
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Occurrences
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Ordering
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Predef
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Sentence
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> String
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> StringCanBuildFrom
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Tuple2
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> Word
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> _1
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> _2
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> a
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> apply
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> asInstanceOf
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> augmentString
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> b
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> c
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> canBuildFrom
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> ch
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> combination
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> combinations
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionary
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionaryByOccurrences
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> filter
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> flatMap
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> foldRight
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> get
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> getOrElse
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> groupBy
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> immutable
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> intWrapper
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> isEmpty
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> isInstanceOf
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> iter
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> l
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> length
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> loadDictionary
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> map
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> math
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> n
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> ne
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> o
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> oc
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurrences
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> package
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> prev_combination
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> r
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> s
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> scala
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentence
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentenceOccurrences
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> sorted
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> subtract
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> to
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> toList
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> toLowerCase
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> toMap
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> unary_!
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> w
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> withFilter
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> word
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> wordOccurrences
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> x
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> y
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> ym
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> +
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> <init>
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> AnyRef
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> Codec
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> Exception
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> List
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> Option
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> Predef
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> Source
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> apply
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> close
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> common
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> dictionaryPath
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> e
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> error
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> fallbackSystemCodec
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> forcomp
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> fromInputStream
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> getClass
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> getLines
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> getOrElse
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> getResourceAsStream
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> immutable
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> io
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> mkString
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> orElse
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> package
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> println
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> resourceAsStreamFromSrc
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> s
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> scala
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> sys
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> toList
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> wordstream
+product stamps:
+24 items
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1499364261000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/common/package$.class -> lastModified(1499364261000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/common/package.class -> lastModified(1499364261000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$3.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4$$anonfun$apply$6.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1$$anonfun$apply$4.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$iter$1$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1$$anonfun$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$2.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class -> lastModified(1499367858000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class -> lastModified(1499364261000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class -> lastModified(1499364261000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package$.class -> lastModified(1499364261000)
+/Users/kevinchen/Downloads/forcomp/target/scala-2.11/classes/forcomp/package.class -> lastModified(1499364261000)
+source stamps:
+3 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> hash(173197253fa6b66d805b670ca5b1d003071bb694)
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> hash(77c0a618470b8baef7ad6c4ec5791b3e05901b88)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kevinchen/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.collection.SeqLike
+internal apis:
+3 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdGRLyuHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMva2V2aW5jaGVuL0Rvd25sb2Fkcy9mb3Jjb21wL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBcFMvCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJvH++x0AAZub3RpZnlzcQB+AAzYlMRSdAAEd2FpdHNxAH4ADIbe1DN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGGzzTXQACHN1YnRyYWN0c3EAfgAMueeH+HQABmVxdWFsc3NxAH4ADBCoktB0AApkaWN0aW9uYXJ5c3EAfgAM5i8oMnQADGFzSW5zdGFuY2VPZnNxAH4ADCT2FrJ0AA93b3JkT2NjdXJyZW5jZXNzcQB+AAzKvpIHdAAMc3luY2hyb25pemVkc3EAfgAM9k8Eu3QADSRpc0luc3RhbmNlT2ZzcQB+AAzhUvK0dAAQc2VudGVuY2VBbmFncmFtc3NxAH4ADJNIDfN0AAx3b3JkQW5hZ3JhbXNzcQB+AAzhdfwjdAAJbm90aWZ5QWxsc3EAfgAML25Iw3QADGlzSW5zdGFuY2VPZnNxAH4ADJ9dmDR0AAxjb21iaW5hdGlvbnNzcQB+AAyN9B83dAALT2NjdXJyZW5jZXNzcQB+AAyq3clCdAACPT1zcQB+AAx3rWbsdAAFY2xvbmVzcQB+AAwtxs3RdAAXZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXNzcQB+AAxtfol0dAAIdG9TdHJpbmdzcQB+AAy5p3ApdAACIT1zcQB+AAzsOgaldAATc2VudGVuY2VPY2N1cnJlbmNlc3NxAH4ADCVxmI50AAhnZXRDbGFzc3NxAH4ADKooxxF0AAJuZXNxAH4ADL9voo10AAhBbmFncmFtc3NxAH4ADDsqQNB0AAJlcXNxAH4ADAJgJ9Z0AAhTZW50ZW5jZXNxAH4ADPu4wM90AARXb3Jkc3EAfgAMZKj+jnQAAiMjc3EAfgAMcJSic3QACGZpbmFsaXplc3EAfgAM722ZpXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGZvcmNvbXAuQW5hZ3JhbXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIB0AANBbnlzcQB+AIRzcQB+AId1cQB+AIoAAAACc3EAfgCMdAAFc2NhbGFxAH4Ak3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZm9yY29tcHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXRlJ20N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL2tldmluY2hlbi9Eb3dubG9hZHMvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFzGXJT+mtm2AW2cMpbHQAwcbtpQ=
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDIdJL/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNbz0pZ0AAZub3RpZnlzcQB+AAxW1XgtdAAHcGFja2FnZXNxAH4ADAl+dyx0AAR3YWl0c3EAfgAMLc/YrXQADSRhc0luc3RhbmNlT2ZzcQB+AAyZ4UMNdAAGZXF1YWxzc3EAfgAMtOzWKnQADGFzSW5zdGFuY2VPZnNxAH4ADA4Z8Y50AAxzeW5jaHJvbml6ZWRzcQB+AAw5MC4/dAANJGlzSW5zdGFuY2VPZnNxAH4ADM8ZN550AAlub3RpZnlBbGxzcQB+AAxF25EtdAAMaXNJbnN0YW5jZU9mc3EAfgAMqDWMmHQADmxvYWREaWN0aW9uYXJ5c3EAfgAMaRwC5nQAAj09c3EAfgAMeOTc4nQABWNsb25lc3EAfgAMewrlhnQACHRvU3RyaW5nc3EAfgAMGBCTnnQAAiE9c3EAfgAMy+/k/nQACGdldENsYXNzc3EAfgAMQqdvvXQAAm5lc3EAfgAM+PLHM3QADmRpY3Rpb25hcnlQYXRoc3EAfgAMz5Z3h3QAAmVxc3EAfgAMScfz5HQAAiMjc3EAfgAMUJ+SMHQACGZpbmFsaXplc3EAfgAMJd7D+XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2ZvcmNvbXAucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwF1cQB+AD4AAAAAcHNxAH4AWwF1cQB+AD4AAAAAcHNxAH4AWwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH1zcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8dAAFc2NhbGFxAH4Ag3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZm9yY29tcHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXRkS8rh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL2tldmluY2hlbi9Eb3dubG9hZHMvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUd8CmGEcLi673rWxOxXkbPgWQG4g=
+external apis:
+0 items
+source infos:
+3 items
+/Users/kevinchen/Downloads/forcomp/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+AAAAAAAAAAA=
+/Users/kevinchen/Downloads/forcomp/src/main/scala/forcomp/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXRkS8rh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9rZXZpbmNoZW4vRG93bmxvYWRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXRlJ20N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9rZXZpbmNoZW4vRG93bmxvYWRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
